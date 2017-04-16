@@ -1,0 +1,17 @@
+{
+  "name": "websocket-transport",
+  "version": "1.0.0",
+  "description": "JSON messages over WebSocket using the transport interface",
+  "keywords": ["transport", "json", "websocket"],
+  "bugs": "https://github.com/yaroslav-korotaev/websocket-transport/issues",
+  "license": "MIT",
+  "author": "Yaroslav Korotaev <yaroslav.korotaev@gmail.com>",
+  "repository": "yaroslav-korotaev/websocket-transport",
+  "devDependencies": {
+    "eslint": "~3.15.0",
+    "eslint-config-highload": "~0.1.0"
+  },
+  "scripts": {
+    "test": "eslint --ignore-path .gitignore ."
+  }
+}
