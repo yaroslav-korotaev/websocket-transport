@@ -1,6 +1,6 @@
 {
   "name": "websocket-transport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON messages over WebSocket using the transport interface",
   "keywords": ["transport", "json", "websocket"],
   "bugs": "https://github.com/yaroslav-korotaev/websocket-transport/issues",
